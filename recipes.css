@@ -1,0 +1,29 @@
+body {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: antiquewhite;
+}
+section {
+  width: 40%;
+}
+img {
+  border-radius: 10%;
+}
+.borders {
+  padding-top: 100px;
+}
+button {
+  background-color: rgb(211, 125, 20);
+  font-size: 30px;
+  border: none;
+  margin-top: 40px;
+  margin-bottom: 100px;
+}
+button:hover {
+  background-color: rgb(247, 184, 108);
+}
+a {
+  text-decoration: none;
+  color: black;
+}
